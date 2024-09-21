@@ -27,7 +27,7 @@
 <h2>Usage</h2>
 <ol>
   <li><strong>Run the application</strong>:
-    <pre><code>python gitfetchr.py</code></pre>
+    <pre><code>python GitFetchr.py</code></pre>
   </li>
   
   <li><strong>Enter GitHub Username</strong>:

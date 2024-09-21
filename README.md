@@ -1,10 +1,6 @@
-<h1 align="center">GitFetchr</h1>
+<h1 align="center" style="font-size: 48px;">GitFetchr</h1>
 
-<p align="center">
-  <a href="https://github.com/4fnanK/GitFetchr">
-    <img src="https://i.ibb.co/ZLMSQ5P/mp3-drawing.png" alt="gitfetchr-logo" border="0">
-  </a>
-</p>
+
 
 <p><strong>GitFetchr</strong> is a Python-based tool designed for quickly cloning all repositories from a GitHub user account with a single click. It provides a simple and efficient way to fetch and organize all public repositories from any GitHub user into a local directory, saving time and effort.</p>
 
@@ -24,7 +20,7 @@
     <pre><code>cd GitFetchr</code></pre>
   </li>
   <li><strong>Install Dependencies</strong>:
-    <pre><code>pip install -r requirements.txt</code></pre>
+    <pre><code>pip install tqdm</code></pre>
   </li>
 </ol>
 

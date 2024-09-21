@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 48px;">GitFetchr</h1>
+<h1 align="center" style="font-size: 118px;">GitFetchr</h1>
 
 
 
